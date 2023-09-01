@@ -1,0 +1,36 @@
+.backbrown{
+	background: #c5c5b2;
+	width: 900px; height: 70px;
+	font-size: 20px;
+}
+/*classe*/
+#borda{
+	border-color: #acb09a;
+	border-width: 10px;
+	border-style: solid;
+}
+/* id*/
+h2{
+	margin-left: 10px;
+	color: #888873;
+}
+h3{
+	color: black;
+}
+body{
+	background-image: url('imagens/fundo.png');
+}
+p{
+	margin-left: 10px;
+	color: black;
+	font-size: 16px;
+}
+a{
+	margin-left: 10px;
+	text-decoration: none;
+	color: #4b566a;
+	font-weight: bold;
+	padding: 5px;
+}
+/*seletores*/
+
